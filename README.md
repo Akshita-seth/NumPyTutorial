@@ -2,6 +2,10 @@
 Jupyter Notebook &amp; Data Associated with my Tutorial video on the Python NumPy Library
 Video Link:
 https://youtu.be/GB9ByFAIAH4
+### FOR maths
+https://docs.scipy.org/doc/numpy/reference/routines.math.html
+### For LinAlgebra 
+https://docs.scipy.org/doc/numpy/reference/routines.linalg.html
 My Input:
 ### Covered in the Tutorial
 Array Creation & Types: Creating arrays of different shapes, sizes, and data types.
